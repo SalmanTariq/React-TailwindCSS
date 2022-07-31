@@ -1,0 +1,5 @@
+function StorageService() {
+
+}
+
+export { StorageService };
