@@ -1,7 +1,28 @@
 {
-  "name": "admin-panelv2",
+  "name": "react-tailwind-boilerplate",
   "version": "0.1.0",
   "private": true,
+  "license": "MIT",
+  "description": "A foundation for scalable React apps",
+  "keywords": [
+    "react",
+    "tailwindcss",
+    "redux",
+    "boilerplate",
+    "react",
+    "typescript",
+    "ts",
+    "sass",
+    "webpack",
+    "hot",
+    "reload"
+  ],
+  "author": {
+    "name": "Salman Tariq",
+    "email": "salman@mictronicx.com",
+    "url": "https://mictronicx.com"
+  },
+  "homepage": "https://github.com/SalmanTariq/react-tailwind-boilerplate#readme",
   "dependencies": {
     "@reduxjs/toolkit": "^1.8.3",
     "@testing-library/jest-dom": "^5.14.1",
@@ -36,5 +57,17 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
   }
 }
